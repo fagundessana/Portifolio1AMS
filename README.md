@@ -12,7 +12,7 @@ O repositório está dividido por componentes curriculares, facilitando a navega
 - **Certificações**  
 - **Palestras e atividades propostas**  
 - **Visitas técnicas**
-- 
+  
 Cada pasta contém os materiais e evidências relacionados às atividades propostas na empresa e aos projetos desenvolvidos durante o módulo.
 
 ---
