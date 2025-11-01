@@ -36,7 +36,7 @@ A experiência proporcionou uma visão prática do mercado de trabalho e da apli
 
 ---
 
-## 🧩 Objetivo do Portfólio
+## 🧩 Objetivo do Portifólio
 
 Este portfólio tem como finalidade demonstrar o **desenvolvimento de competências técnicas e profissionais**, evidenciando o aprendizado obtido por meio de práticas, estudos e vivências no curso de Desenvolvimento de Sistemas.
 
