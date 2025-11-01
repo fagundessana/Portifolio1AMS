@@ -1,4 +1,4 @@
-# Portfólio 1 AMS
+# Portifólio 1 AMS
 
 Este repositório tem como objetivo reunir e documentar as atividades desenvolvidas ao longo do primeiro módulo do curso técnico em **Desenvolvimento de Sistemas (AMS)** na **ETEC da Zona Leste**.  
 Aqui estão organizadas as **certificações**, **palestras**, **atividades propostas** e **visitas técnicas** realizadas durante o período.
