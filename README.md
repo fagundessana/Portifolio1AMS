@@ -5,8 +5,8 @@ Aqui estão organizadas as **certificações**, **palestras**, **atividades prop
 
 ## 🔗 Projeto Lumis
 
-[🖥️ Acessar o site](https://guilhermezi.github.io/lumis-sistema-limpeza-online/)  
-[📂 Repositório](https://github.com/Guilhermezi/lumis-sistema-limpeza-online)
+🖥️ Acessar o site(https://guilhermezi.github.io/lumis-sistema-limpeza-online/)  
+📂 Repositório(https://github.com/Guilhermezi/lumis-sistema-limpeza-online)
 
 ---
 
