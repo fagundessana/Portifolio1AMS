@@ -52,6 +52,5 @@ Este portfólio tem como finalidade demonstrar o **desenvolvimento de competênc
 
 **Ana Beatriz Araujo Fagundes**  
 Estudante de Desenvolvimento de Sistemas (AMS) – ETEC Zona Leste
-[GitHub](https://github.com/fagundessana)
 
 ---
